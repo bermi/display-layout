@@ -2,6 +2,9 @@
 
 A macOS menu bar utility to manage external display configurations using [displayplacer](https://github.com/jakehilborn/displayplacer).
 
+![Display Layout Screenshot](screenshot.png)
+
+
 ## Features
 
 - Quick access to common display layouts: Right, Bottom, and Mirror
